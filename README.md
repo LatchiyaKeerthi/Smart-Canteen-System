@@ -53,30 +53,6 @@ The Smart Canteen Management System is a robust solution designed to modernize a
 
 ---
 
-## Team Members:
-- **Dissanayake P.D.**  
-  E/20/084  
-  Email: e20084@eng.pdn.ac.lk
-
-- **Gunasinha H.P.M.S.**  
-  E/20/121  
-  Email: e20121@eng.pdn.ac.lk
-
-- **Munasinghe S.L.**  
-  E/20/259  
-  Email: e20259@eng.pdn.ac.lk
-
-- **Shyamantha R.M.M.**  
-  E/20/376  
-  Email: e20376@eng.pdn.ac.lk
-
----
-
-## Supervisor:
-- **Dr. Isuru Nawinne**  
-  Email: isurunawinne@eng.pdn.ac.lk
-
----
 
 ## Technologies Used:
 
@@ -91,9 +67,6 @@ The Smart Canteen Management System is a robust solution designed to modernize a
 
 - **Database Management:**  
   MySQL/PostgreSQL – A relational database management system (RDBMS) to store user data, transaction history, inventory data, and more.
-
----
-## Links
 
 - [Project Repository](https://github.com/cepdnaclk/e20-3yp-Smart-Canteen-Management-System/)
 - [Project Page](https://cepdnaclk.github.io/e20-3yp-Smart-Canteen-Management-System/)
