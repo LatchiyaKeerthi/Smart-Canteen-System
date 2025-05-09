@@ -1,0 +1,51 @@
+#Use cases
+##User perspective
+1) Users can app create accounts 
+2) Users can app login to accounts
+3) Users can top up their app accounts
+4) Users can see their account app balance
+5) users can share their credits
+6) user can cancel their cards temporarily or permanently
+7) Pay for canteen items
+8) Use digital menu to pre select items
+9) Can see the congestion in the canteen
+10) Suggest the low queue places
+11) Authorisation of pay
+12) Online ordering via advancement
+13) Cart modify
+14) Money trace history
+15) Notification of online orders
+16) Order tracking
+17) Feed back and rating
+18) Support and complaints
+19) Credit withdrawl with panelty
+20) Users can edit their user names and user data
+21) display discounts
+22) Emails for informing discounts
+23) Inventory display
+24) Emergency alerts
+25) Budget settings
+
+
+
+
+
+
+#Merchant Perspective
+1) Availability
+2) Menu update
+3) price update
+4) Allow online ordering
+5) Balance view
+6) Balance withdraw
+7) Congestion view
+8) Money trace history
+9) Confirmation of online orders
+10) Feedback receive and rating
+11) complaint attendance and support
+12)Generate daily sales reports
+13) Can offer disconts
+14) Price changes notify
+15) Inventory management
+16) Early open systems - Events
+
